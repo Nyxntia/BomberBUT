@@ -1,6 +1,10 @@
 
 ## BomberBUT
 
+![Aperçu du jeu](graphique/img/BomberBUT.png)
+
+
+
 ### Prérequis
 - **Python 3.x**
 - **Tkinter** 
