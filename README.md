@@ -1,7 +1,6 @@
 ## BomberBUT
 
-
-
+![BomberBUT](https://github.com/user-attachments/assets/98e08c62-251d-401a-804d-d52d0f9bc191)
 
 
 ### Prérequis
